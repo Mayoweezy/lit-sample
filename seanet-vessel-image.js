@@ -1,4 +1,5 @@
-import {html, LitElement} from 'lit';
+// import {html, LitElement} from 'lit';
+import {html, LitElement} from 'https://cdn.jsdelivr.net/gh/lit/dist@3.1.3/all/lit-all.min.js';
 
 export class SeanetVesselImage extends LitElement {
   
